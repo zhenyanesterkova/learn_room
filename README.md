@@ -1,1 +1,1 @@
-# learn_room
+# Учебный проект learn_room
